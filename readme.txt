@@ -1,1 +1,1 @@
-This is a file readme.txt.
+/bin/bash: line 1: wq: command not found
