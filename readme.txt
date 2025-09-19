@@ -1,1 +1,1 @@
-/bin/bash: line 1: wq: command not found
+Hi MY NAME IS NOEL SAJAN
